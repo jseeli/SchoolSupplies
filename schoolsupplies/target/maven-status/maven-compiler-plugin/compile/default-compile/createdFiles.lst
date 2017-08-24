@@ -1,0 +1,10 @@
+com\schoolsupplies\dao\CategoryDAO.class
+com\schoolsupplies\model\Product.class
+com\schoolsupplies\controller\RegisterController.class
+com\schoolsupplies\dao\ProductDAO.class
+com\schoolsupplies\model\Register.class
+com\schoolsupplies\controller\ProductController.class
+com\schoolsupplies\model\Category.class
+com\schoolsupplies\model\Supplier.class
+com\schoolsupplies\dao\RegisterDAO.class
+com\schoolsupplies\dao\SupplierDAO.class
